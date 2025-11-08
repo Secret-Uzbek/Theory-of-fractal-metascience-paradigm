@@ -1,3 +1,6 @@
+> **📍 Part of [FMP Central Repository](https://github.com/Secret-Uzbek/FMP-CENTRAL-REPO) — see full ecosystem map**
+
+---
 The Fractal Metascience Paradigm: Toward a Unified Epistemological Framework for 21st Century Science
 
 Абдурашид Абдулхамитович Абдукаримов (Abdurashid Abdulkhamitovich Abdukarimov) Independent Researcher • Tashkent, Uzbekistan E-mail: a.a.abdukarimov@tutamail.com ORCID: https://orcid.org/0009-0000-6394-4912 Date: August 10, 2025
