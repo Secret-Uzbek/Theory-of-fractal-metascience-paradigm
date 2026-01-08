@@ -3,7 +3,7 @@
 ---
 The Fractal Metascience Paradigm: Toward a Unified Epistemological Framework for 21st Century Science
 
-Абдурашид Абдулхамитович Абдукаримов (Abdurashid Abdulkhamitovich Abdukarimov) Independent Researcher • Tashkent, Uzbekistan E-mail: a.a.abdukarimov@tutamail.com ORCID: https://orcid.org/0009-0000-6394-4912 Date: August 10, 2025
+Абдурашид Абдулхамитович Абдукаримов (Abdurashid Abdulkhamitovich Abdukarimov) Independent Researcher • Tashkent, Uzbekistan E-mail: a.abdukarimov@fractal-metascience.org ORCID: https://orcid.org/0009-0000-6394-4912 Date: August 10, 2025
 
 Abstract
 This monograph presents the Fractal Metascience Paradigm (FMP)—a living epistemological framework, synthesizing principles of self-similarity, recursive co-construction, and emergent integration in scientific, educational, and technological domains. Through experimental architectures such as Terra Codex, and author’s original case studies, the work demonstrates multi-lingual, multi-layer implementations—including the simulation of quantum superposition, human-AI symbiosis, and biocentric paradigm shifts. All content is organically integrated with living directives, dynamic protocols, and fractal knowledge structures, reflecting the adaptive evolution of Terra as a learning system.
@@ -180,7 +180,7 @@ About the Author
 Абдурашид Абдулхамитович Абдукаримов
 (Abdurashid Abdulkhamitovich Abdukarimov)
 Independent Researcher, Tashkent, Uzbekistan
-E-mail: a.a.abdukarimov@tutamail.com
+E-mail: a.abdukarimov@fractal-metascience.org
 ORCID: https://orcid.org/0009-0000-6394-4912
 
 Born in 1977, Tashkent, Uzbekistan, Abdukarimov is a self-taught meta-scientist and developer of the Terra Codex ecosystem, creator of the Fractal Metascience Paradigm (FMP), experienced in multi-lingual knowledge architectures, bio-cognitive prototyping, and human-AI symbiotic research methodologies. All work presented in this monograph was developed independently, operating in “human-AI symbiosis” mode, with no institutional support. Abdukarimov’s research spans education, systemic linguistics, digital ethnology, and biocentric system design.
