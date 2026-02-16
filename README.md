@@ -15,3 +15,8 @@ The Fractal Metascience Paradigm (FMP) models knowledge systems as recursive, sc
 
 ---
 *Generated from local archive: fmp_fractal_metascience_paradigm_canonical_integrated_edition.md*
+
+
+---
+**Identity:** a.abdukarimov@fractal-metascience.org
+**ORCID:** 0009-0000-6394-4912
