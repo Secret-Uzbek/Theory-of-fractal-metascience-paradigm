@@ -1,22 +1,39 @@
+# 📐 Theory of Fractal Metascience Paradigm
 
-# Fractal Metascience Paradigm (FMP)
+[![Live](https://img.shields.io/badge/Live-Theory%20Paper-blue)](https://secret-uzbek.github.io/Theory-of-fractal-metascience-paradigm)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--6394--4912-green)](https://orcid.org/0009-0000-6394-4912)
 
-## Foundations for AI‑Integrated, Recursive, and Sustainable Knowledge Ecosystems
+> The canonical theoretical paper presenting the **Fractal Metascience Paradigm (FMP)** — a new epistemological framework for knowledge production in post-digital, transdisciplinary science.
 
-**Canonical Integrated Edition**
+## 📖 Abstract
 
-### Abstract
-The Fractal Metascience Paradigm (FMP) models knowledge systems as recursive, scale‑invariant environments. It conceptualizes learning, research, and institutional cognition as living systems capable of self‑organization via NULLO (Ontological Zero-Point) principles.
+The Fractal Metascience Paradigm proposes that knowledge systems exhibit **fractal self-similarity** at all scales of organization — from individual concepts to global epistemic networks. This framework integrates:
 
-### Key Axioms
-1.  **NULLO:** Before language, there is potential.
-2.  **PLT (Post Lingua Trace):** Meaning transcends syntax.
-3.  **UCOMM:** Universal Communication across biological and silicon substrates.
+- **Zero-Point Ontology (NULLO)** — emergence from structured absence
+- **Post-Lingua Trace (PLT)** — semantic persistence across linguistic boundaries
+- **Universal Communication (UCOM)** — cross-agent meaning transfer protocol
+- **Emergent Universal Organization (EUO)** — self-organizing knowledge architecture
 
----
-*Generated from local archive: fmp_fractal_metascience_paradigm_canonical_integrated_edition.md*
+## 🎯 Core Thesis
 
+> *Knowledge does not reside in propositions but in the fractal structure of relations between semantic primitives — invariant patterns that persist across all scales of inquiry.*
 
----
-**Identity:** a.abdukarimov@fractal-metascience.org
-**ORCID:** 0009-0000-6394-4912
+## 📚 Contents
+
+- `FMP_CANONICAL_EDITION.md` — Full canonical theory text
+- `index.html` — Interactive presentation
+- `CITATION.cff` — Academic citation metadata
+
+## 🔬 Epistemological Position
+
+FMP occupies the intersection of:
+- **Philosophy of science** (post-Kuhnian paradigm theory)
+- **Complexity science** (fractal dynamics, emergence)
+- **Computational linguistics** (semantic vector spaces)
+- **Systems theory** (autopoiesis, self-organization)
+
+## 👤 Author
+
+**Abdurashid Abdukarimov** | Independent Researcher | Tashkent, Uzbekistan  
+Former Trade Advisor, Swiss Embassy in Uzbekistan | DAAD Scholar | German Philology  
+🔗 [ORCID](https://orcid.org/0009-0000-6394-4912) · [FMP Central](https://github.com/Secret-Uzbek/FMP-CENTRAL-REPO)
