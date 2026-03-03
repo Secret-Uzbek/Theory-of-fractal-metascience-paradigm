@@ -1,39 +1,26 @@
-# 📐 Theory of Fractal Metascience Paradigm
+# 🌐 THEORY OF FRACTAL METASCIENCE PARADIGM
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.TODO.svg)](https://doi.org/#)
+[![ORCID](https://img.shields.io/badge/ORCID-0009-0000-6394-4912-green)](https://orcid.org/0009-0000-6394-4912)
+[![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Live Site](secret-uzbek.github.io/Theory-of-fractal-metascience-paradigm)](https://secret-uzbek.github.io/Theory-of-fractal-metascience-paradigm)
 
-[![Live](https://img.shields.io/badge/Live-Theory%20Paper-blue)](https://secret-uzbek.github.io/Theory-of-fractal-metascience-paradigm)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--6394--4912-green)](https://orcid.org/0009-0000-6394-4912)
+> **Core theoretical paper: New epistemological framework for post-digital science.**
 
-> The canonical theoretical paper presenting the **Fractal Metascience Paradigm (FMP)** — a new epistemological framework for knowledge production in post-digital, transdisciplinary science.
+## 🔬 About
+Part of the **Fractal Metascience Paradigm (FMP)** ecosystem developed by Abdurashid Abdukarimov.
+This repository implements principles of **NULLO** (Zero-Point Ontology), **PLT** (Post-Lingua Trace), and **UCOM** (Universal Communication).
 
-## 📖 Abstract
-
-The Fractal Metascience Paradigm proposes that knowledge systems exhibit **fractal self-similarity** at all scales of organization — from individual concepts to global epistemic networks. This framework integrates:
-
-- **Zero-Point Ontology (NULLO)** — emergence from structured absence
-- **Post-Lingua Trace (PLT)** — semantic persistence across linguistic boundaries
-- **Universal Communication (UCOM)** — cross-agent meaning transfer protocol
-- **Emergent Universal Organization (EUO)** — self-organizing knowledge architecture
-
-## 🎯 Core Thesis
-
-> *Knowledge does not reside in propositions but in the fractal structure of relations between semantic primitives — invariant patterns that persist across all scales of inquiry.*
-
-## 📚 Contents
-
-- `FMP_CANONICAL_EDITION.md` — Full canonical theory text
-- `index.html` — Interactive presentation
-- `CITATION.cff` — Academic citation metadata
-
-## 🔬 Epistemological Position
-
-FMP occupies the intersection of:
-- **Philosophy of science** (post-Kuhnian paradigm theory)
-- **Complexity science** (fractal dynamics, emergence)
-- **Computational linguistics** (semantic vector spaces)
-- **Systems theory** (autopoiesis, self-organization)
+## 📚 Citation
+```bibtex
+@misc{abdukarimov2026theoryoffractalmetascienceparadigm,
+  author = {Abdurashid Abdukarimov},
+  title = {Theory-of-fractal-metascience-paradigm},
+  year = {2026},
+  doi = {10.5281/zenodo.TODO},
+  url = {https://github.com/Secret-Uzbek/Theory-of-fractal-metascience-paradigm}
+}
+```
 
 ## 👤 Author
-
-**Abdurashid Abdukarimov** | Independent Researcher | Tashkent, Uzbekistan  
-Former Trade Advisor, Swiss Embassy in Uzbekistan | DAAD Scholar | German Philology  
+**Abdurashid Abdukarimov** | Fractal Metascience Foundation, Tashkent
 🔗 [ORCID](https://orcid.org/0009-0000-6394-4912) · [FMP Central](https://github.com/Secret-Uzbek/FMP-CENTRAL-REPO)
