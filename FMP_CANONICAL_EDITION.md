@@ -1,12 +1,12 @@
 
 # Fractal Metascience Paradigm (FMP)
 
-## Foundations for AI‑Integrated, Recursive, and Sustainable Knowledge Ecosystems
+## Foundations for AIвЂ‘Integrated, Recursive, and Sustainable Knowledge Ecosystems
 
 **Canonical Integrated Edition**
 
 ### Abstract
-The Fractal Metascience Paradigm (FMP) models knowledge systems as recursive, scale‑invariant environments. It conceptualizes learning, research, and institutional cognition as living systems capable of self‑organization via NULLO (Ontological Zero-Point) principles.
+The Fractal Metascience Paradigm (FMP) models knowledge systems as recursive, scaleвЂ‘invariant environments. It conceptualizes learning, research, and institutional cognition as living systems capable of selfвЂ‘organization via NULLO (Ontological Zero-Point) principles.
 
 ### Key Axioms
 1.  **NULLO:** Before language, there is potential.
