@@ -1,4 +1,4 @@
-# 🌐 THEORY OF FRACTAL METASCIENCE PARADIGM
+bs# 🌐 THEORY OF FRACTAL METASCIENCE PARADIGM
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.TODO.svg)](https://doi.org/10.5281/zenodo.TODO)
 [![ORCID](https://img.shields.io/badge/ORCID-0009-0000-6394-4912-green)](https://orcid.org/0009-0000-6394-4912)
