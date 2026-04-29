@@ -1,7 +1,29 @@
-# Contributor Covenant Code of Conduct
+# Code of Conduct
 
-## Our Pledge
-We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone...
+This repository is a theory-facing public branch inside the Terra ecosystem.
 
-## Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at a.a.abdukarimov@tutamail.com.
+That means conduct here applies to:
+
+- papers and theory-facing texts;
+- issues and pull requests;
+- review comments and linked publication discussions;
+- AI-assisted edits that change what human readers see first.
+
+## Expected behavior
+
+- discuss ideas without personal attacks;
+- preserve source integrity when editing theory-facing materials;
+- keep public repository surfaces human-readable;
+- be explicit when a file is donor-derived, machine-facing, or still draft.
+
+## Unacceptable behavior
+
+- harassment, intimidation, or degrading language;
+- noise, mojibake, or automation residue presented as finished public theory;
+- publishing credentials, private data, or misleading contact information.
+
+## Reporting
+
+For conduct concerns, contact:
+
+- `a.abdukarimov@fractal-metascience.org`
