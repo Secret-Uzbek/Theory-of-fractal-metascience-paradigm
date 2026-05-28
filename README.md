@@ -35,9 +35,10 @@ If you are a human reader, start with:
 
 1. this `README.md`
 2. `CITATION.cff`
-3. `Theory/` and root theory documents
-4. donor rules in `terra-legal`
-5. publication-facing companion repositories if you need release or DOI context
+3. `FMP_CANONICAL_EDITION.md`
+4. `TECHNICAL_GLOSSARY.md`
+5. donor rules in `terra-legal`
+6. publication-facing companion repositories if you need release or DOI context
 
 ## Ecosystem position
 
